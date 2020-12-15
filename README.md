@@ -52,4 +52,4 @@
 
 ## 3. I am using latest NIFTY Holdings(2020). Hence there will be survivorship bias in the data during backtesting exercise.
 
-## All analysis is ex-Transaction Cost.
+## 4. All analysis is ex-Transaction Cost.
